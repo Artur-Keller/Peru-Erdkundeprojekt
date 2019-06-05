@@ -27,7 +27,7 @@ transition: all .3s ease;
 
 images:hover {
 background: #FFFFFF;
-border: 1px solid orange;
+border: 1px solid black;
 }
 
 images:hover img {
