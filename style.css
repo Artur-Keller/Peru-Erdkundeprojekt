@@ -1,0 +1,126 @@
+body{
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Machupicchu_intihuatana.JPG/1024px-Machupicchu_intihuatana.JPG");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  overflow-x: hidden;
+  font-family: 'Poppins', sans-serif;
+}
+
+#sally { 
+width: 1080px;
+margin-right: auto;
+margin-left: auto;
+font: arial;
+font-size:19px
+}
+body {
+	background-color:D3D3D3;
+}
+header { 
+ padding-top: 10px;
+  padding-bottom: 10px;
+  height: 50px;
+  text-align: center;
+}
+nav{
+
+	text-align: center;
+	font-size:15px;
+}
+nav u1 {
+
+ list-style-type: none;
+} 
+nav li{
+display: inline; 
+margin-right: 25px; 
+}
+a {
+color:black;
+text-decoration: none;
+font: arial
+}	
+
+nav a{
+	color:#c93232;
+}
+section { 
+width: 600px;
+
+float: left;
+padding: 10px;
+margin-top: 10px;
+margin-right:10px;
+background-color:#C0C0C0;
+border:2px solid #111;
+border-radius: 10px;
+margin-bottom: 20px;
+}
+
+.Rechtsextremismus {
+
+margin-top:	15px;
+margin-bottom: 50px;
+}
+
+.Rechtsextremismus img {
+	float: left;
+	padding: 5px;
+	margin-right: 10px;
+	border: 1px solid #111
+}
+.Rechtsextremismus a {
+	font-size:25px;
+}
+
+aside {
+width:300px;
+float: left;
+padding:10px;
+margin-top: 10px;
+background-color:#C0C0C0;
+border:2px solid #111;
+border-radius: 10px;
+margin-bottom: 10px;
+}
+.seite img {
+	padding: 5px;
+	border: 1px solid #111
+}
+.seite a {
+font-size:25px;
+padding:30px;
+
+}
+.seite p {
+padding:10px
+}	
+footer { 
+height: 50px;
+width: 935px;
+clear: both;	
+padding: 10px;
+margin-top: 10px;
+margin-right:10px;
+background-color:#C0C0C0;
+border: 2px solid #111;
+border-radius: 10px;
+}
+ 
+Rate {
+	margin:15px
+}
+
+Rate h1{
+	color: #111;
+	padding-bottom: 10px;
+}
+
+WkmgR {
+	margin:15px
+}
+
+WkmgR h1 {
+	color: #111;
+	padding-bottom: 10px;

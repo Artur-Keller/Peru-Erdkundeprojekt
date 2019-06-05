@@ -1,0 +1,130 @@
+body{
+  background-color: #E7E7E7;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  overflow-x: hidden;
+  font-family: 'Poppins', sans-serif;
+}
+images {
+display: inline-block;
+background: white;
+border: 1px solid black;
+overflow: hidden;
+-webkit-transition: all .3s ease;
+-moz-transition: all .3s ease;
+transition: all .3s ease;
+}
+
+images img {
+display: block;
+margin: 0;
+padding: 0;
+-webkit-transition: all .3s ease;
+-moz-transition: all .3s ease;
+transition: all .3s ease;
+}
+
+images:hover {
+background: #FFFFFF;
+border: 1px solid orange;
+}
+
+images:hover img {
+-webkit-transform: scale(1.2);
+-moz-transform: scale(1.2);
+transform: scale(1.2);
+opacity: .5;
+filter: alpha(opacity=50);
+}
+
+
+#index { 
+width: 1080px;
+margin-right: auto;
+margin-left: auto;
+font: arial;
+font-size:19px
+}
+body {
+	background-color:D3D3D3;
+}
+header { 
+ padding-top: 10px;
+  padding-bottom: 10px;
+  height: 50px;
+  text-align: center;
+}
+nav a{
+	color:#000000;
+}
+
+section { 
+width: 950px;
+float: left;
+padding: 2px;
+margin-top: 10px;
+margin-right:10px;
+background-color:#C0C0C0;
+border:2px solid #111;
+border-radius: 2px;
+margin-bottom: 20px;
+}
+
+.Rechtsextremismus {
+
+margin-top:	15px;
+margin-bottom: 50px;
+}
+
+.Rechtsextremismus img {
+	float: left;
+	padding: 2px;
+	margin-right: 10px;
+	border: 1px solid #111
+}
+.Rechtsextremismus a {
+	font-size:25px;
+}
+
+.seite img {
+	padding: 5px;
+	border: 1px solid #111
+}
+.seite a {
+font-size:25px;
+padding:30px;
+
+}
+.seite p {
+padding:10px
+}	
+footer { 
+
+height: 50px;
+width: 935px;
+clear: both;	
+padding: 10px;
+margin-top: 10px;
+margin-right:10px;
+background-color:#C0C0C0;
+border: 2px solid #111;
+border-radius: 2px;
+}
+ 
+Rate {
+	margin:15px
+}
+
+Rate h1{
+	color: #111;
+	padding-bottom: 10px;
+}
+
+WkmgR {
+	margin:15px
+}
+
+WkmgR h1 {
+	color: #111;
+	padding-bottom: 10px;
